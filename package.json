@@ -1,0 +1,29 @@
+{
+  "name": "webhdfs_nodejs_client",
+  "version": "1.0.0",
+  "description": "Client nodejs pour communiquer avec une plateforme webhdfs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/damsNda/webhdfs_nodejs_client.git"
+  },
+  "keywords": [
+    "webhdfs",
+    "nodejs",
+    "client"
+  ],
+  "author": "Damien N'DA",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/damsNda/webhdfs_nodejs_client/issues"
+  },
+  "homepage": "https://github.com/damsNda/webhdfs_nodejs_client#readme",
+  "dependencies": {
+    "date-format": "^1.1.0",
+    "properties-reader": "0.0.16"
+  }
+}
