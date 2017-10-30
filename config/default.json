@@ -1,0 +1,15 @@
+{
+	"user":{
+		"name":"root"
+	},
+	"webhdfs_host":{
+		"hostname" : "localhost",
+		"port"     : 50070,
+		"path" : "layer1"
+	},
+	"webhdfs_operation":{
+		"create":{
+			"overwrite":true
+		}
+	}
+}

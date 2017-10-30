@@ -23,7 +23,9 @@
   },
   "homepage": "https://github.com/damsNda/webhdfs_nodejs_client#readme",
   "dependencies": {
+    "config": "^1.27.0",
     "date-format": "^1.1.0",
-    "properties-reader": "0.0.16"
+    "properties-reader": "0.0.16",
+    "walk": "^2.3.9"
   }
 }
